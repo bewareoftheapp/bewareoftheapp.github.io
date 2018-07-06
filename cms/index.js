@@ -4,7 +4,7 @@
 		tagline: 'Oops! Ainda estamos sem conteúdo...',
 		call_to_action: 'Veja mais sobre nós ↓',
 		$bg_image_type: 'image',
-		bg_image: '/assets/img/admiring_board.jpg'
+		bg_image: './assets/img/admiring_board.jpg'
 	},
 	instruction_points: [
 		{
