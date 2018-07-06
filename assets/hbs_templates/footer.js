@@ -1,0 +1,3 @@
+define(["handlebars"], function(Handlebars) { return Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<footer class=\"screen quarter color3 white\">\n	<div class=\"contained\">\n		<ul>\n			<li><b>Beware of the App &copy;</b></li>\n			<li><b>Por</b> Davi Diório Mendes</li>\n			<li>Desenvolvido com <b>endurojs</b></li>\n			<li>Hospedado em <b>GitHub pages</b></li>\n		</ul>\n	</div>\n</footer>";
+},"useData":true}); });
